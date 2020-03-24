@@ -6,3 +6,9 @@
 
 ### Virtual setup 
 ![alt text](virtual-setup.png)
+
+### MSE vs B 
+![alt text](MSE-vs-Guess-for-b.png)
+
+### Code snippet for MSE vs B
+![alt text](mse-vs-b-code.png)
