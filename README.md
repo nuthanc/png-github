@@ -7,6 +7,9 @@
 ### Virtual setup 
 ![alt text](virtual-setup.png)
 
+### Virtual setup config
+![alt text](virtual-config.png)
+
 ### MSE vs B 
 ![alt text](MSE-vs-Guess-for-b.png)
 
