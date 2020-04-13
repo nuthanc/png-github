@@ -15,3 +15,6 @@
 
 ### Code snippet for MSE vs B
 ![alt text](mse-vs-b-code.png)
+
+### Javascript Run-time environment
+![alt text](jsre.png)
