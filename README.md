@@ -18,3 +18,6 @@
 
 ### Javascript Run-time environment
 ![alt text](jsre.png)
+
+### Execution order
+![alt text](call_stack.png)
