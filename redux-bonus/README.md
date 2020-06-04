@@ -1,5 +1,5 @@
 # Redux bonus topics
 
 ### Redux-thunk
-![alt text](redux-bonus/redux-thunk.png)
+![alt text](redux-thunk.png)
 
