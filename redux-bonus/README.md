@@ -3,3 +3,6 @@
 ### Redux-thunk
 ![alt text](redux-thunk.png)
 
+### Reselect library
+![alt text](reselect.png)
+![alt text](usecase_reselect.png)
