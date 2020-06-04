@@ -6,3 +6,5 @@
 ### Reselect library
 ![alt text](reselect.png)
 ![alt text](usecase_reselect.png)
+![alt text](bad.png)
+![alt text](reselect_use.png)
