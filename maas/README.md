@@ -57,3 +57,40 @@
 ![img](img/n29s.png)
 ![img](img/n29i.png)
 ![img](img/n29c.png)
+
+### noden20
+
+![img](img/n20s.png)
+![img](img/n20i.png)
+![img](img/n20c.png)
+
+### noden19
+
+![img](img/n19s.png)
+![img](img/n19i.png)
+![img](img/n19c.png)
+
+### nodec9
+
+![img](img/c9s.png)
+![img](img/c9i.png)
+![img](img/c9c.png)
+
+### nodei34
+
+![img](img/i34s.png)
+![img](img/i34i.png)
+![img](img/i34c.png)
+
+### juju
+![img](img/jujus.png)
+![img](img/jujui.png)
+![img](img/jujuc.png)
+
+### neutron
+![img](img/ns.png)
+![img](img/ni.png)
+
+### g20
+![img](img/gs.png)
+![img](img/gi.png)
